@@ -1,6 +1,10 @@
 ## Hi, Helloo World! I'm Beatriz Araujo 🙃
 
-
+ <div>
+  <a href="https://github.com/beatrizaraujoam">
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer for 22 years, early in her career but very willing to learn, she loves the vastness of technology and is always looking to be better.
 
 
@@ -21,11 +25,7 @@ I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer fo
 ## ⭐ GitHub Stats
 
 
- <div>
-  <a href="https://github.com/beatrizaraujoam">
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
   
   
   
