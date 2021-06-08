@@ -21,14 +21,14 @@ I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer fo
 
  <div>
   <a href="https://github.com/beatrizaraujoam">
-  <img height="180em" width="900em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="190em" width="900em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" width="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
   
   
 ## 💻 Technologies & Tools
-<div style="display: flex; align-items: flex-start;><br>
+<div style="text-center"><br>
   <img align="center" alt="Beatriz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Beatriz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Beatriz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
