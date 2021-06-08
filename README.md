@@ -21,8 +21,8 @@ I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer fo
 
  <div>
   <a href="https://github.com/beatrizaraujoam">
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
   
