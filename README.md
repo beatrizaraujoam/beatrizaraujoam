@@ -21,8 +21,8 @@ I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer fo
 
  <div>
   <a href="https://github.com/beatrizaraujoam">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" width="900em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
   
@@ -47,9 +47,7 @@ I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer fo
   <a href = "mailto: biaaraujo.am@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatrizaraujoam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <div align="center">
-<img src="https://user-images.githubusercontent.com/42151127/121114426-0c71ee80-c7ea-11eb-975c-66d12fde4386.gif" width="500px"  />
-</div>
+
  
  
 </div>
