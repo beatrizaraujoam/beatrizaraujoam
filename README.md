@@ -2,10 +2,10 @@
 
 I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer for 22 years, at the beginning of her career, but with a strong desire to learn, she loves the vastness of technology and is always looking to be better.
 
-• Currently working at Banco PAN💙 with Software Engineer.
-• Enthusiast of the best development technologies.
-• I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-📍 Born in Amazonas, resident in São Paulo.
+• Currently working at Banco PAN💙 with Software Engineer.</br>
+• Enthusiast of the best development technologies.</br>
+• I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.</br>
+📍 Born in Amazonas, resident in São Paulo.</br></br>
 
 I believe that if programming is the language of the future, we women must be part of this construction 👩‍💻
 
