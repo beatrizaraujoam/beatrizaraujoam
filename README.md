@@ -18,8 +18,8 @@ I believe that if programming is the language of the future, we women must be pa
 
  <div>
   <a href="https://github.com/beatrizaraujoam">
-  <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
 </div>  
 ## 💻 Technologies & Tools
 <div style="text-center"><br>
