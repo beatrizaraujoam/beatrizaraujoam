@@ -1,5 +1,5 @@
 # {Hello World}, Nice to meet you, Beatriz.
-<p  align="center"><img  width="50%" height="100%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/w7d8qcg/Purple-Yellow-and-Pink-Modern-Colorful-Business-Profile-Linked-In-Article-Cover-Image.png"
+<p  align="center"><img  width="70%" height="100%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/w7d8qcg/Purple-Yellow-and-Pink-Modern-Colorful-Business-Profile-Linked-In-Article-Cover-Image.png"
 </p>
 
   
