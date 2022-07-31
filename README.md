@@ -1,5 +1,5 @@
 # {Hello World}, Nice to meet you, Beatriz.
-<p  align="center"><img  width="80%" height="100%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/w7d8qcg/Purple-Yellow-and-Pink-Modern-Colorful-Business-Profile-Linked-In-Article-Cover-Image.png"
+<p  align="center"><img  width="50%" height="100%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/w7d8qcg/Purple-Yellow-and-Pink-Modern-Colorful-Business-Profile-Linked-In-Article-Cover-Image.png"
 </p>
 
   
@@ -50,11 +50,9 @@ I’m a self-taught passionate FrontEnd developer from brazil
 ## ⭐ GitHub Stats
 
 
-<div>
-  <a href="https://github.com/beatrizaraujoam">
-  <img height="200em" width="500em" bg_color="#7b44ea" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="400em" bg_color="#7b44ea" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=jolly"/>
-</div>  
+
+  <a href="https://github.com/beatrizaraujoam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=jolly"/>
+
 
   
 
