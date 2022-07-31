@@ -1,3 +1,4 @@
+
  {Hello World}, Nice to meet you, Beatriz
 
 I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer for 22 years, at the beginning of her career, but with a strong desire to learn, she loves the vastness of technology and is always looking to be better.
