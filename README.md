@@ -1,49 +1,73 @@
+<p  align="center"><img  width="80%"  alt="Hello, I'm Beatriz C. Araújo!"  src="<a href="https://ibb.co/4ZDGDrH"><img src="https://i.ibb.co/pvs8sFS/Felpudo-Gato-Instagram-Post-1.png"> alt="Felpudo-Gato-Instagram-Post-1" border="0"></a>"  /></a></p>
 
- {Hello World}, Nice to meet you, Beatriz
+  
 
-I'm Beatriz Araújo, but you can call me Bea. Acting as a Front-End Developer for 22 years, at the beginning of her career, but with a strong desire to learn, she loves the vastness of technology and is always looking to be better.
+<br  />
 
-• Currently working at Banco PAN💙 with Software Engineer.</br>
-• Enthusiast of the best development technologies.</br>
-• I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.</br>
-📍 Born in Amazonas, resident in São Paulo.</br></br>
+  
 
-I believe that if programming is the language of the future, we women must be part of this construction 👩‍💻
+I’m a self-taught passionate FrontEnd developer from brazil 
+
+  
+
+**About me**
+
+  
+
+- 💼 FrontEnd Engineer at [Banco Pan](https://www.bancopan.com.br/)
+
+  
+
+
+
+  
+
+- ❤️ I love learning new things, and if the subject is frontend, I'm there!
+
+  
+
+- 💬 Ask me about anything [here](https://github.com//beatrizaraujoam)
+
+  
+
+<code><img  height="20"  alt="javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img  height="20"  alt="typescript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+<code><img  height="20"  alt="react"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
 
 
 
-
-## ⭐ GitHub Stats
-
- <div>
-  <a href="https://github.com/beatrizaraujoam">
-  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=dracula"/>
-</div>  
-## 💻 Technologies & Tools
-<div style="text-center"><br>
-  <img align="center" alt="Beatriz-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Beatriz-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Beatriz-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Beatriz-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beatriz-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Beatriz-AngularJs" height="60" width="60" src="https://user-images.githubusercontent.com/42151127/121117607-c9fee080-c7ee-11eb-954c-757eb38dddb5.png">
- 
- 
-</div>
   
   
-  
-## 😄 Contacts
- 
-<div> 
- 
-  <a href = "mailto: biaaraujo.am@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatrizaraujoam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 
- 
- 
-</div>
+| <a  href="https://github.com/beatrizaraujoam/github-readme-stats"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"  alt="Anurag's github stats"  /></a> | <a  href="https://github.com/anuraghazra/github-readme-stats"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true"  /></a> |
+
+| ------------- | ------------- |
+
+  
+
+#### Top Repositories
+
+  
+  
+
+<a  href="https://github.com/beatrizaraujoam/github-readme-stats">
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy"  />
+
+</a>
+
+<a  href="https://github.com/beatrizaraujoam">
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy"  />
+
+</a>
+
+  
+
+<br  />
+
+<br  />
