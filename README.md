@@ -1,4 +1,4 @@
-# {Hello World}, Nice to meet you, Beatriz.
+## Hello, I'm Bea! 👋
 <p  align="center"><img  width="30%" height="20%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/cv1VTQT/icon-github.png" alt="icon-github"
 </p>
 
@@ -8,8 +8,7 @@
 
   
 
-I'm a passionate self-taught FrontEnd developer from Brazil, born in Manaus, Amazonas, currently living in São Paulo but without a fixed address. 
-
+I'm a FrontEnd Software Engineer from Brazil, born and raised in Manaus, Amazonas, currently living in São Paulo, but without a fixed address.
   
 
 **About me**
@@ -33,7 +32,7 @@ I'm a passionate self-taught FrontEnd developer from Brazil, born in Manaus, Ama
    
 <br  />
 
-## 💻 Technologies & Tools
+## 💻 My technology Stack 
 
 <code><img  height="40"  alt="javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img  height="40"  alt="typescript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
