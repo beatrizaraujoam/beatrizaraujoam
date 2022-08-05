@@ -8,7 +8,7 @@
 
   
 
-I’m a self-taught passionate FrontEnd developer from brazil 
+I'm a passionate self-taught FrontEnd developer from Brazil, born in Manaus, Amazonas, currently living in São Paulo but without a fixed address. 
 
   
 
