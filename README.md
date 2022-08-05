@@ -1,6 +1,6 @@
 ## Hello, I'm Bea! 👋
-<p  align="center"><img  width="20%" height="20%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/cv1VTQT/icon-github.png" alt="icon-github"
-</p>
+  <!--  <p  align="center"><img  width="20%" height="20%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/cv1VTQT/icon-github.png" alt="icon-github"
+</p>-->
 
   
 
