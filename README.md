@@ -48,9 +48,16 @@ I'm a FrontEnd Software Engineer from Brazil, born and raised in Manaus, Amazona
 
 ## ⭐ GitHub Stats
 
+<!-- GITHUB STATUS -->
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=10&theme=dark"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
 
 
-  <a href="https://github.com/beatrizaraujoam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=jolly"/>
+  <!--  <a href="https://github.com/beatrizaraujoam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizaraujoam&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujoam&layout=compact&langs_count=16&theme=jolly"/> -->
 
 
   
