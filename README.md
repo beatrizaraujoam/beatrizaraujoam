@@ -15,7 +15,7 @@ I'm a FrontEnd Software Engineer from Brazil, born and raised in Manaus, Amazona
 
   
 
-- 💼 FrontEnd Engineer at [Banco Pan](https://www.bancopan.com.br/)
+- 💼 FrontEnd Engineer at [Banco Itaú](https://www.itau.com.br/)
 
   
 
