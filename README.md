@@ -8,7 +8,7 @@
 
   
 
-I'm a FrontEnd Software Engineer from Brazil, born and raised in Manaus, Amazonas, currently living in São Paulo, but without a fixed address.
+I'm a tech lead front end at itau unibanco from Brazil, born and raised in Manaus, Amazonas, currently living in São Paulo.
   
 
 **About me**
